@@ -9,6 +9,7 @@ So it works like a multi-line comment.
 ⚠️ Make sure not to use unescaped single quotes ('') inside the block,
 or it will break the syntax.
 '
+## basic commands
 ls
 ls -a
 ls -a -l
@@ -24,5 +25,9 @@ echo "Hello"
 history
 ip
 ip a
-mkdir
-touch
+mkdir testdir
+touch file1
+rm file1
+rm -r testdir/
+cat
+# sudo
