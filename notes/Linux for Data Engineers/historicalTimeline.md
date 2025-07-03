@@ -1,5 +1,5 @@
 # 🐧 Linux for Data Engineers
-
+[![Linux for Data Engineers – البطريق العضاض يعظ](https://img.youtube.com/vi/gojeTqXdBH0/0.jpg)](https://www.youtube.com/watch?v=gojeTqXdBH0)
 ## 🕰️ Historical Timeline
 
 ### 🧠 1. Foundations (1948–1960s)
