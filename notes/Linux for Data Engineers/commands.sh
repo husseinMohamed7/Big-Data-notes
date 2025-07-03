@@ -9,5 +9,20 @@ So it works like a multi-line comment.
 ⚠️ Make sure not to use unescaped single quotes ('') inside the block,
 or it will break the syntax.
 '
-
+ls
+ls -a
+ls -a -l
+ls -alF
+pwd
+cd
+tyoe cd 
+man pwd
+whoami
+# bg
+hostname
 echo "Hello"
+history
+ip
+ip a
+mkdir
+touch
