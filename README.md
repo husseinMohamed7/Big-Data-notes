@@ -13,9 +13,8 @@ They’re aimed at helping me (and others) revise core concepts in data engineer
 
 ## 📂 Topics Covered
 The notes are organized into individual Markdown files within the `notes/` directory.
-- What is Big Data?
-- The 4Vs
-- Big Data Tools and Ecosystem
+- Big Data main concepts
+- Linux for Data Engineers
 - ...more coming soon (check the `notes/` directory for updates!)
 
 ---
