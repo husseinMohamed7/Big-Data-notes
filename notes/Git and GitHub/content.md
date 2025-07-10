@@ -34,7 +34,7 @@
 
 ---
 
-## 📚 Git & GitHub Full Course – Main Topics
+## 📚 Git & GitHub – Main Topics
 
 ### 🧭 Table of Contents
 
