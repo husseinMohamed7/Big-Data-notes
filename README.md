@@ -1,5 +1,5 @@
 # Big-Data-notes
-This repository contains my personal notes from the YouTube series **"بالعربي Big Data"**. 
+This repository contains my personal notes from the YouTube channel **"بالعربي Big Data"**. 
 
 Link: [Big Data بالعربي - YouTube Series/Channel](https://www.youtube.com/@bigdata4756/videos)
 
